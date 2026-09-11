@@ -1,5 +1,6 @@
 ---
 title: "Currículum"
+description: "CV académico de Julio Landa, estudiante de doctorado en el IER-UNAM. Control de heliostatos con visión por computadora y métodos de sensado complementarios. Supervisor: Dr. Camilo Arancibia."
 page-layout: article
 filters:
   - cv-pdf.lua
@@ -111,7 +112,7 @@ Repositorio de código: [GitHub](https://github.com/JulioLanda4/IoT_Reloj_Confor
 Impartí las materias de física y matemáticas.
 
 ### IER, UNAM
-**Profesor adjunto** · 2023-actualidad
+**Ayudante de asignatura** · 2023-actualidad
 
 Apoyo actualmente la asignatura de Energía Solar Térmica, particularmente en geometría solar. He colaborado en la revisión de tareas, exámenes y proyectos de Introducción al Diseño Bioclimático y como profesor adjunto de Álgebra Lineal.
 

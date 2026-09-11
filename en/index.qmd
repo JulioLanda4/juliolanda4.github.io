@@ -1,7 +1,7 @@
 ---
 title: "Julio Landa"
 subtitle: "PhD Student in Renewable Energy · Mechatronics · Control"
-description: "Julio Landa, PhD student at IER-UNAM and mechatronics engineer. Research on heliostat control using computer vision."
+description: "Julio Landa, PhD student at IER-UNAM. Closed-loop control of solar heliostats using computer vision and complementary sensing methods."
 page-layout: full
 format:
   html:
@@ -27,12 +27,13 @@ about:
       href: "https://scholar.google.com/citations?user=aoloTfAAAAAJ&hl=es"
 ---
 
-I am a PhD student in Renewable Energy at IER-UNAM and a mechatronics engineer. My research focuses on heliostat control using computer vision and closed-loop correction, with experimental work on the heliostat and solar furnace at IER. My experience includes instrumentation, embedded systems, IoT and data analysis with Python.
+I am a PhD student in Renewable Energy at IER-UNAM and a mechatronics engineer. My research focuses on closed-loop control of solar heliostats using computer vision and complementary sensing methods, under the supervision of Dr. Camilo Arancibia. My experience includes instrumentation, embedded systems, IoT and data analysis with Python.
 
 
 ## Education
 - PhD in Renewable Energy — IER-UNAM (2026-present)
 - Master's in Engineering - Energy Area — IER-UNAM (2022-2025)
+  - Thesis: IoT smartwatch based on open technologies for the collection of thermal comfort data. [View](publicaciones.html#tesis-reloj)
 - B.Eng. in Mechatronics — Universidad Tecnológica de Emiliano Zapata (UTEZ) (2018–2020)
 
 ## Experience
@@ -42,8 +43,8 @@ I am a PhD student in Renewable Energy at IER-UNAM and a mechatronics engineer. 
 - General Coordinator of the National Congress of Renewable Energy Students (CNEER) 2026.
 
 ## Highlights
-### Computer vision for heliostat control
-Doctoral research on closed-loop heliostat control and correction, with experimental work on the heliostat and solar furnace at IER.
+### Sensor-based feedback for heliostat control
+I develop sensor-based feedback methods for closed-loop heliostat positioning, with primary emphasis on computer vision. I carry out experimental work with the heliostat, solar furnace and control system at IER-UNAM.
 [Current research](proyectos.html#heliostato)
 
 

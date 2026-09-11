@@ -1,11 +1,14 @@
 ---
 title: "Acerca de mí"
+description: "Perfil de Julio Landa: investigación doctoral en control de heliostatos con retroalimentación sensorial, bajo la supervisión del Dr. Camilo Arancibia en el IER-UNAM."
 page-layout: full
 ---
 
 <div class="section-card">
 
-Soy estudiante de Doctorado en Energías Renovables en el IER-UNAM desde 2026 e ingeniero en Mecatrónica. Mi investigación se centra en el control de heliostatos mediante visión por computadora y corrección en lazo cerrado. Realizo trabajo experimental con el heliostato, el horno solar y su sistema de control en el IER, y apoyo la asignatura de Energía Solar Térmica, particularmente en geometría solar.
+Soy estudiante de Doctorado en Energías Renovables en el IER-UNAM desde 2026 e ingeniero en Mecatrónica. Bajo la supervisión del Dr. Camilo Arancibia, investigo el control en lazo cerrado de heliostatos solares mediante visión por computadora y métodos de sensado complementarios.
+
+Desarrollo métodos de retroalimentación sensorial para el posicionamiento de heliostatos, con énfasis principal en visión por computadora. Realizo trabajo experimental con el heliostato, el horno solar y el sistema de control del IER-UNAM. También participo como ayudante en la asignatura de Energía Solar Térmica, particularmente en geometría solar.
 
 Me considero una persona dedicada, versátil, meticulosa y creativa. Disfruto trabajar en equipo y aprender de otras miradas, aunque también valoro mucho avanzar por mi cuenta, concentrado y en silencio. Esa combinación me ha acompañado en distintos proyectos y experiencias, y me ha dado un equilibrio entre lo colectivo y lo personal.
 

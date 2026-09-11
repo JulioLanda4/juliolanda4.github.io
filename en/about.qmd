@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: "Julio Landa's profile: doctoral research on sensor-based feedback for heliostat control, supervised by Dr. Camilo Arancibia at IER-UNAM."
 page-layout: full
 format:
   html:
@@ -8,7 +9,9 @@ format:
 
 <div class="section-card">
 
-I am a PhD student in Renewable Energy at IER-UNAM since 2026 and a mechatronics engineer. My research focuses on heliostat control using computer vision and closed-loop correction. I carry out experimental work with the heliostat, solar furnace and control system at IER, and support the Solar Thermal Energy course, particularly solar geometry.
+I have been a PhD student in Renewable Energy at IER-UNAM since 2026 and am a mechatronics engineer. Under the supervision of Dr. Camilo Arancibia, I research closed-loop control of solar heliostats using computer vision and complementary sensing methods.
+
+I develop sensor-based feedback methods for heliostat positioning, with primary emphasis on computer vision. I carry out experimental work with the heliostat, solar furnace and control system at IER-UNAM. I also serve as a teaching assistant for the Solar Thermal Energy course, particularly solar geometry.
 
 I consider myself a dedicated, versatile, meticulous, and creative person. I enjoy working in a team and learning from other perspectives, although I also greatly value working on my own, focused and in silence. This combination has accompanied me in different projects and experiences, and has given me a balance between the collective and the personal.
 

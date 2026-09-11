@@ -1,5 +1,6 @@
 ---
 title: "Curriculum"
+description: "Academic CV of Julio Landa, PhD student at IER-UNAM. Heliostat control using computer vision and complementary sensing. Supervisor: Dr. Camilo Arancibia."
 page-layout: article
 filters:
   - ../cv-pdf.lua

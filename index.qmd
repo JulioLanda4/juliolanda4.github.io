@@ -1,7 +1,7 @@
 ---
 title: "Julio Landa"
 subtitle: "Estudiante de Doctorado en Energías Renovables · Mecatrónica · Control"
-description: "Julio Landa, estudiante de doctorado en el IER-UNAM e ingeniero en Mecatrónica. Investigación en control de heliostatos mediante visión por computadora."
+description: "Julio Landa, estudiante de doctorado en el IER-UNAM. Control en lazo cerrado de heliostatos solares mediante visión por computadora y métodos de sensado complementarios."
 page-layout: full
 about:
   template: trestles
@@ -24,7 +24,7 @@ about:
       href: "https://scholar.google.com/citations?user=aoloTfAAAAAJ&hl=es"
 ---
 
-Soy estudiante de Doctorado en Energías Renovables en el IER-UNAM e ingeniero en Mecatrónica. Investigo el control de heliostatos mediante visión por computadora y corrección en lazo cerrado, con trabajo experimental en el heliostato y horno solar del IER. Mi experiencia incluye instrumentación, sistemas embebidos, IoT y análisis de datos con Python.
+Soy estudiante de Doctorado en Energías Renovables en el IER-UNAM e ingeniero en Mecatrónica. Mi investigación se centra en el control en lazo cerrado de heliostatos solares mediante visión por computadora y métodos de sensado complementarios, bajo la supervisión del Dr. Camilo Arancibia. Mi experiencia incluye instrumentación, sistemas embebidos, IoT y análisis de datos con Python.
 
 ## Educación
 - Doctorado en Energías Renovables — IER-UNAM (2026-actualidad)
@@ -33,14 +33,14 @@ Soy estudiante de Doctorado en Energías Renovables en el IER-UNAM e ingeniero e
 - Ingeniería Mecatrónica — Universidad Tecnológica de Emiliano Zapata (UTEZ) (2018–2020)
 
 ## Experiencia
-- Profesor adjunto — IER-UNAM (2023-actualidad). Apoyo actual en Energía Solar Térmica, particularmente geometría solar.
+- Ayudante de asignatura — IER-UNAM (2023-actualidad). Apoyo actual en Energía Solar Térmica, particularmente geometría solar.
 - Docente de Física y Matemáticas — NC School (2024–2025)
 - Desarrollador IoT — IER-UNAM (2020 / 2024-actualidad)
 - Coordinador General del Congreso Nacional de Estudiantes de Energías Renovables (CNEER) 2026.
 
 ## Proyectos destacados
-### Control de heliostatos mediante visión por computadora
-Investigación doctoral sobre control y corrección en lazo cerrado, con trabajo experimental en el heliostato y horno solar del IER.
+### Control de heliostatos con retroalimentación sensorial
+Desarrollo métodos de retroalimentación sensorial para el posicionamiento de heliostatos en lazo cerrado, con énfasis principal en visión por computadora. Realizo trabajo experimental con el heliostato, el horno solar y el sistema de control del IER-UNAM.
 [Ver investigación actual](proyectos.html#heliostato)
 
 ### Reloj inteligente IoT de confort térmico
