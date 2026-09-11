@@ -94,14 +94,14 @@ Development of sensor-based feedback methods for closed-loop heliostat positioni
 ### IoT smartwatch based on open technologies for the collection of thermal comfort data
 Landa, J., Barrios, G., & Huelsz, G. (2025).  
 **HardwareX, 22**, e00633.  
-DOI: <https://doi.org/10.1016/j.ohx.2025.e00633>
+DOI: [10.1016/j.ohx.2025.e00633](https://doi.org/10.1016/j.ohx.2025.e00633)
 
 ## Theses
 
 ### IoT smartwatch based on open technologies for the collection of thermal comfort data
 **Master's thesis** · 2025  
 Available at: <https://altamarmx.github.io/reloj_inteligente/>  
-Project licensed under GPL v3.0: <https://github.com/JulioLanda4/IoT_Reloj_Confort/tree/v1.0.0>
+Code repository: [GitHub](https://github.com/JulioLanda4/IoT_Reloj_Confort/tree/v1.0.0) · GPL v3.0
 
 ## Professional Experience
 
@@ -124,14 +124,14 @@ Develop low-cost devices using open-source hardware and software, integrated wit
 ~~~
 
 ### CNEER
-**Workshop Coordinator** · 2023
-
-Planned, organized and coordinated workshops for the 10th edition of CNEER, the National Congress of Renewable Energy Students.
-
-### CNEER
 **General Coordinator** · 2026
 
 General Coordinator of the National Congress of Renewable Energy Students (CNEER) 2026.
+
+### CNEER
+**Workshop Coordinator** · 2023
+
+Planned, organized and coordinated workshops for the 10th edition of CNEER, the National Congress of Renewable Energy Students.
 
 ### DMC Ingenieria
 **Electrical Engineer** · 2022

@@ -94,14 +94,14 @@ Desarrollo de métodos de retroalimentación sensorial para el posicionamiento d
 ### IoT smartwatch based on open technologies for the collection of thermal comfort data
 Landa, J., Barrios, G., & Huelsz, G. (2025).  
 **HardwareX, 22**, e00633.  
-DOI: <https://doi.org/10.1016/j.ohx.2025.e00633>
+DOI: [10.1016/j.ohx.2025.e00633](https://doi.org/10.1016/j.ohx.2025.e00633)
 
 ## Tesis
 
 ### Reloj inteligente IoT basado en tecnologías abiertas para la recopilación de datos de confort térmico
 **Tesis de maestría** · 2025  
 Tesis disponible en: <https://altamarmx.github.io/reloj_inteligente/>  
-Proyecto bajo licencia GPL v3.0: <https://github.com/JulioLanda4/IoT_Reloj_Confort/tree/v1.0.0>
+Repositorio de código: [GitHub](https://github.com/JulioLanda4/IoT_Reloj_Confort/tree/v1.0.0) · GPL v3.0
 
 ## Experiencia laboral
 
@@ -124,14 +124,14 @@ Trabajo desarrollando dispositivos de bajo costo con hardware y software de cód
 ~~~
 
 ### CNEER
-**Coordinador de talleres** · 2023
-
-Planeé, organicé y coordiné los talleres del Congreso Nacional de Estudiantes de Energías Renovables en su décima edición.
-
-### CNEER
 **Coordinador General** · 2026
 
 Coordinador General del Congreso Nacional de Estudiantes de Energías Renovables (CNEER) 2026.
+
+### CNEER
+**Coordinador de talleres** · 2023
+
+Planeé, organicé y coordiné los talleres del Congreso Nacional de Estudiantes de Energías Renovables en su décima edición.
 
 ### DMC Ingeniería
 **Ingeniero eléctrico** · 2022
