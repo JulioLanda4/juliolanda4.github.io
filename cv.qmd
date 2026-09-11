@@ -42,7 +42,7 @@ Morelos, México
 
 ## Idiomas
 
-- Inglés: B2-C1, competencia de trabajo (autoevaluación)
+- Inglés: competencia profesional de trabajo
 - Español: nativo
 
 ## Intereses de investigación
@@ -53,7 +53,7 @@ Sistemas de control · Mecatrónica · Visión por computadora · Energía solar
 
 - **Instrumentación:** diseño y calibración de instrumentos.
 - **Programación:** Python, C/C++, Arduino y LabVIEW.
-- **Control:** automatización y control de heliostatos con visión por computadora y realimentación.
+- **Control:** control con retroalimentación, automatización, control basado en sensores y sistemas de control experimental.
 - **Diseño mecánico:** modelado CAD con SolidWorks y FreeCAD.
 - **Análisis de datos:** Python, NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn y Plotly.
 - **Inteligencia artificial:** aprendizaje automático, redes neuronales y algoritmos genéticos.
@@ -67,7 +67,8 @@ Sistemas de control · Mecatrónica · Visión por computadora · Energía solar
 
 ### Doctorado en Energías Renovables
 **Instituto de Energías Renovables, UNAM** · 2026-actualidad  
-Investigación: control de heliostatos mediante visión por computadora y corrección en lazo cerrado.
+Supervisor de doctorado: Dr. Camilo Arancibia  
+Investigación: control en lazo cerrado de heliostatos solares mediante visión por computadora y métodos de sensado complementarios.
 
 ### Maestría en Ingeniería - Área en Energía
 **Instituto de Energías Renovables de la UNAM** · 2022-2025  
@@ -83,10 +84,10 @@ Emiliano Zapata, Morelos, México. Cédula profesional: 11825167.
 
 ## Investigación actual
 
-### Control de heliostatos mediante visión por computadora
+### Control de heliostatos con retroalimentación sensorial
 **IER-UNAM** · 2026-actualidad
 
-Investigo el control de heliostatos mediante visión por computadora y corrección en lazo cerrado. Realizo trabajo experimental con el heliostato y el horno solar del IER, y su sistema de control.
+Desarrollo de métodos de retroalimentación sensorial para el posicionamiento de heliostatos en lazo cerrado, con especial énfasis en visión por computadora. Trabajo experimental con el heliostato, el horno solar y el sistema de control del IER-UNAM.
 
 ## Publicaciones
 
@@ -117,6 +118,10 @@ Apoyo actualmente la asignatura de Energía Solar Térmica, particularmente en g
 **Ingeniero desarrollador IoT** · 2020 / 2024-actualidad
 
 Trabajo desarrollando dispositivos de bajo costo con hardware y software de código abierto, vinculados a plataformas IoT para el proyecto de instrumentación del nuevo edificio de la LIER.
+
+~~~{=latex}
+\Needspace{6cm}
+~~~
 
 ### CNEER
 **Coordinador de talleres** · 2023

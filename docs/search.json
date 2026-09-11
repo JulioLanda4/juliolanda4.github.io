@@ -60,7 +60,7 @@
     "href": "en/cv.html#languages",
     "title": "Curriculum",
     "section": "Languages",
-    "text": "Languages\n\nSpanish: native\nEnglish: B2-C1, working proficiency (self-assessed)"
+    "text": "Languages\n\nSpanish: native\nEnglish: Professional working proficiency"
   },
   {
     "objectID": "en/cv.html#research-interests",
@@ -74,21 +74,21 @@
     "href": "en/cv.html#skills",
     "title": "Curriculum",
     "section": "Skills",
-    "text": "Skills\n\nInstrumentation: instrument design and calibration.\nProgramming: Python, C/C++, Arduino and LabVIEW.\nControl: automation and heliostat control using computer vision and feedback.\nMechanical design: CAD modeling with SolidWorks and FreeCAD.\nData analysis: Python, NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn and Plotly.\nArtificial intelligence: machine learning, neural networks and genetic algorithms.\nEmbedded systems and IoT: ESP32/Arduino development and platform integration.\nElectronics: circuit design and automation projects."
+    "text": "Skills\n\nInstrumentation: instrument design and calibration.\nProgramming: Python, C/C++, Arduino and LabVIEW.\nControl: feedback control, automation, sensor-based control, and experimental control systems.\nMechanical design: CAD modeling with SolidWorks and FreeCAD.\nData analysis: Python, NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn and Plotly.\nArtificial intelligence: machine learning, neural networks and genetic algorithms.\nEmbedded systems and IoT: ESP32/Arduino development and platform integration.\nElectronics: circuit design and automation projects."
   },
   {
     "objectID": "en/cv.html#education",
     "href": "en/cv.html#education",
     "title": "Curriculum",
     "section": "Education",
-    "text": "Education\n\nPhD in Renewable Energy\nInstituto de Energías Renovables, UNAM · 2026-present\nResearch: heliostat control using computer vision and closed-loop correction.\n\n\nMaster’s in Engineering - Energy Area\nInstituto de Energias Renovables, UNAM · 2022-2025\nMorelos, Mexico.\n\n\nBachelor of Mechatronics Engineering\nUniversidad Tecnologica de Emiliano Zapata · 2018-2020\nEmiliano Zapata, Morelos, Mexico.\n\n\nHigher University Technician in Mechatronics, Automation Area\nUniversidad Tecnologica de Emiliano Zapata · 2016-2018\nEmiliano Zapata, Morelos, Mexico."
+    "text": "Education\n\nPhD in Renewable Energy\nInstituto de Energías Renovables, UNAM · 2026-present\nPhD Supervisor: Dr. Camilo Arancibia\nResearch: Closed-loop control of solar heliostats using computer vision and complementary sensing methods.\n\n\nMaster’s in Engineering - Energy Area\nInstituto de Energias Renovables, UNAM · 2022-2025\nMorelos, Mexico.\n\n\nBachelor of Mechatronics Engineering\nUniversidad Tecnologica de Emiliano Zapata · 2018-2020\nEmiliano Zapata, Morelos, Mexico.\n\n\nHigher University Technician in Mechatronics, Automation Area\nUniversidad Tecnologica de Emiliano Zapata · 2016-2018\nEmiliano Zapata, Morelos, Mexico."
   },
   {
     "objectID": "en/cv.html#current-research",
     "href": "en/cv.html#current-research",
     "title": "Curriculum",
     "section": "Current Research",
-    "text": "Current Research\n\nComputer vision for heliostat control\nIER-UNAM · 2026-present\nResearch on heliostat control using computer vision and closed-loop correction. Experimental work with the heliostat, solar furnace and control system at IER."
+    "text": "Current Research\n\nSensor-based feedback for heliostat control\nIER-UNAM · 2026-present\nDevelopment of sensor-based feedback methods for closed-loop heliostat positioning, with particular emphasis on computer vision. Experimental work with the heliostat, solar furnace, and control system at IER-UNAM."
   },
   {
     "objectID": "en/cv.html#publications",
@@ -179,7 +179,7 @@
     "href": "cv.html#idiomas",
     "title": "Currículum",
     "section": "Idiomas",
-    "text": "Idiomas\n\nInglés: B2-C1, competencia de trabajo (autoevaluación)\nEspañol: nativo"
+    "text": "Idiomas\n\nInglés: competencia profesional de trabajo\nEspañol: nativo"
   },
   {
     "objectID": "cv.html#intereses-de-investigación",
@@ -193,21 +193,21 @@
     "href": "cv.html#habilidades",
     "title": "Currículum",
     "section": "Habilidades",
-    "text": "Habilidades\n\nInstrumentación: diseño y calibración de instrumentos.\nProgramación: Python, C/C++, Arduino y LabVIEW.\nControl: automatización y control de heliostatos con visión por computadora y realimentación.\nDiseño mecánico: modelado CAD con SolidWorks y FreeCAD.\nAnálisis de datos: Python, NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn y Plotly.\nInteligencia artificial: aprendizaje automático, redes neuronales y algoritmos genéticos.\nSistemas embebidos e IoT: desarrollo con ESP32/Arduino e integración a plataformas.\nElectrónica: diseño de circuitos y proyectos de automatización."
+    "text": "Habilidades\n\nInstrumentación: diseño y calibración de instrumentos.\nProgramación: Python, C/C++, Arduino y LabVIEW.\nControl: control con retroalimentación, automatización, control basado en sensores y sistemas de control experimental.\nDiseño mecánico: modelado CAD con SolidWorks y FreeCAD.\nAnálisis de datos: Python, NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn y Plotly.\nInteligencia artificial: aprendizaje automático, redes neuronales y algoritmos genéticos.\nSistemas embebidos e IoT: desarrollo con ESP32/Arduino e integración a plataformas.\nElectrónica: diseño de circuitos y proyectos de automatización."
   },
   {
     "objectID": "cv.html#educación",
     "href": "cv.html#educación",
     "title": "Currículum",
     "section": "Educación",
-    "text": "Educación\n\nDoctorado en Energías Renovables\nInstituto de Energías Renovables, UNAM · 2026-actualidad\nInvestigación: control de heliostatos mediante visión por computadora y corrección en lazo cerrado.\n\n\nMaestría en Ingeniería - Área en Energía\nInstituto de Energías Renovables de la UNAM · 2022-2025\nMorelos, México. Cédula profesional: 15145011.\n\n\nIngeniería Mecatrónica\nUniversidad Tecnológica de Emiliano Zapata · 2018-2020\nEmiliano Zapata, Morelos, México. Cédula profesional: 12273726.\n\n\nTécnico Superior Universitario en Mecatrónica, Área Automatización\nUniversidad Tecnológica de Emiliano Zapata · 2016-2018\nEmiliano Zapata, Morelos, México. Cédula profesional: 11825167."
+    "text": "Educación\n\nDoctorado en Energías Renovables\nInstituto de Energías Renovables, UNAM · 2026-actualidad\nSupervisor de doctorado: Dr. Camilo Arancibia\nInvestigación: control en lazo cerrado de heliostatos solares mediante visión por computadora y métodos de sensado complementarios.\n\n\nMaestría en Ingeniería - Área en Energía\nInstituto de Energías Renovables de la UNAM · 2022-2025\nMorelos, México. Cédula profesional: 15145011.\n\n\nIngeniería Mecatrónica\nUniversidad Tecnológica de Emiliano Zapata · 2018-2020\nEmiliano Zapata, Morelos, México. Cédula profesional: 12273726.\n\n\nTécnico Superior Universitario en Mecatrónica, Área Automatización\nUniversidad Tecnológica de Emiliano Zapata · 2016-2018\nEmiliano Zapata, Morelos, México. Cédula profesional: 11825167."
   },
   {
     "objectID": "cv.html#investigación-actual",
     "href": "cv.html#investigación-actual",
     "title": "Currículum",
     "section": "Investigación actual",
-    "text": "Investigación actual\n\nControl de heliostatos mediante visión por computadora\nIER-UNAM · 2026-actualidad\nInvestigo el control de heliostatos mediante visión por computadora y corrección en lazo cerrado. Realizo trabajo experimental con el heliostato y el horno solar del IER, y su sistema de control."
+    "text": "Investigación actual\n\nControl de heliostatos con retroalimentación sensorial\nIER-UNAM · 2026-actualidad\nDesarrollo de métodos de retroalimentación sensorial para el posicionamiento de heliostatos en lazo cerrado, con especial énfasis en visión por computadora. Trabajo experimental con el heliostato, el horno solar y el sistema de control del IER-UNAM."
   },
   {
     "objectID": "cv.html#publicaciones",

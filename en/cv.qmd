@@ -43,7 +43,7 @@ Morelos, Mexico
 ## Languages
 
 - Spanish: native
-- English: B2-C1, working proficiency (self-assessed)
+- English: Professional working proficiency
 
 ## Research Interests
 
@@ -53,7 +53,7 @@ Control Systems · Mechatronics · Computer Vision · Solar Energy · Instrument
 
 - **Instrumentation:** instrument design and calibration.
 - **Programming:** Python, C/C++, Arduino and LabVIEW.
-- **Control:** automation and heliostat control using computer vision and feedback.
+- **Control:** feedback control, automation, sensor-based control, and experimental control systems.
 - **Mechanical design:** CAD modeling with SolidWorks and FreeCAD.
 - **Data analysis:** Python, NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn and Plotly.
 - **Artificial intelligence:** machine learning, neural networks and genetic algorithms.
@@ -67,7 +67,8 @@ Control Systems · Mechatronics · Computer Vision · Solar Energy · Instrument
 
 ### PhD in Renewable Energy
 **Instituto de Energías Renovables, UNAM** · 2026-present  
-Research: heliostat control using computer vision and closed-loop correction.
+PhD Supervisor: Dr. Camilo Arancibia  
+Research: Closed-loop control of solar heliostats using computer vision and complementary sensing methods.
 
 ### Master's in Engineering - Energy Area
 **Instituto de Energias Renovables, UNAM** · 2022-2025  
@@ -83,10 +84,10 @@ Emiliano Zapata, Morelos, Mexico.
 
 ## Current Research
 
-### Computer vision for heliostat control
+### Sensor-based feedback for heliostat control
 **IER-UNAM** · 2026-present
 
-Research on heliostat control using computer vision and closed-loop correction. Experimental work with the heliostat, solar furnace and control system at IER.
+Development of sensor-based feedback methods for closed-loop heliostat positioning, with particular emphasis on computer vision. Experimental work with the heliostat, solar furnace, and control system at IER-UNAM.
 
 ## Publications
 
@@ -117,6 +118,10 @@ Currently support the Solar Thermal Energy course, particularly solar geometry. 
 **IoT Developer Engineer** · 2020 / 2024-present
 
 Develop low-cost devices using open-source hardware and software, integrated with IoT platforms for the instrumentation project of the new Renewable Energy Engineering building at IER, UNAM.
+
+~~~{=latex}
+\Needspace{6cm}
+~~~
 
 ### CNEER
 **Workshop Coordinator** · 2023
