@@ -1,6 +1,7 @@
 ---
 title: "Julio Landa"
-subtitle: "Renewable Energy · IoT · Data"
+subtitle: "PhD Student in Renewable Energy · Mechatronics · Control"
+description: "Julio Landa, PhD student at IER-UNAM and mechatronics engineer. Research on heliostat control using computer vision."
 page-layout: full
 format:
   html:
@@ -21,23 +22,32 @@ about:
     - icon: link-45deg
       text: ORCID
       href: "https://orcid.org/0009-0006-2067-6624"
+    - icon: mortarboard
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=aoloTfAAAAAJ&hl=es"
 ---
 
-Mechatronics engineer with a master's degree in Renewable Energy, specializing in bioclimatic design, thermal comfort, and with an interest in solar thermal energy and automation. I work with Python for data acquisition, analysis, and visualization, developing reproducible and clear solutions. I am motivated by research and science, always seeking to combine technology with creativity to generate useful and humane projects.
+I am a PhD student in Renewable Energy at IER-UNAM and a mechatronics engineer. My research focuses on heliostat control using computer vision and closed-loop correction, with experimental work on the heliostat and solar furnace at IER. My experience includes instrumentation, embedded systems, IoT and data analysis with Python.
 
 
 ## Education
-- M.Sc. in Renewable Energy — IER‑UNAM (2023–2025)
+- PhD in Renewable Energy — IER-UNAM (2026-present)
+- Master's in Engineering - Energy Area — IER-UNAM (2022-2025)
 - B.Eng. in Mechatronics — Universidad Tecnológica de Emiliano Zapata (UTEZ) (2018–2020)
 
 ## Experience
+- Teaching Assistant — IER-UNAM (2023-present). Current support for Solar Thermal Energy, particularly solar geometry.
 - Physics and Mathematics Teacher — NC School (2024–2025)
-- HW/SW Developer (Thermal Comfort IoT y sistemas de automatización científica) — IER‑UNAM (2023–2025)
+- IoT Developer — IER-UNAM (2020 / 2024-present)
 - General co-coordinator of CNEER — National Congress of Renewable Energy Students (2026)
 
 ## Highlights
+### Computer vision for heliostat control
+Doctoral research on closed-loop heliostat control and correction, with experimental work on the heliostat and solar furnace at IER.
+[Current research](proyectos.html#heliostato)
+
 
 ### IoT smartwatch for thermal comfort
 Open design based on XIAO ESP32C3, MAX30102, GY‑906; LVGL UI and ThingsBoard backend.  
-[Thesis](../publicaciones.html#tesis-reloj) · [Article](../publicaciones.html#articulo-reloj) · [Repository](https://github.com/JulioLanda4/IoT_Reloj_Confort)
+[Thesis](publicaciones.html#tesis-reloj) · [Article](publicaciones.html#articulo-reloj) · [Repository](https://github.com/JulioLanda4/IoT_Reloj_Confort)
 

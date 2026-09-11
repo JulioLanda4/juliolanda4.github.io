@@ -1,6 +1,9 @@
 ﻿project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "en/*.qmd"
   resources:
     - files/CV-JulioLanda.pdf
     - files/CV-JulioLanda-in.pdf

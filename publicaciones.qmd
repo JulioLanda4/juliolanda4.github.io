@@ -6,6 +6,22 @@ page-layout: full
 <div class="row g-4">
 
 <div class="col-md-6">
+<div class="project-card no-media" id="articulo-reloj">
+<h3>Artículo</h3>
+<p><strong>IoT smartwatch based on open technologies for the collection of thermal comfort data</strong></p>
+<p>Presenta el diseño abierto del smartwatch, metodología de adquisición de datos de confort y validaciones experimentales. Landa, J., Barrios, G., &amp; Huelsz, G. (2025). <em>HardwareX, 22</em>, e00633.</p>
+<p class="badges">
+  <span class="badge">Artículo</span>
+  <span class="badge">HardwareX</span>
+  <span class="badge">2025</span>
+</p>
+<p class="links">
+  <a class="btn btn-sm btn-primary" href="https://doi.org/10.1016/j.ohx.2025.e00633" target="_blank" rel="noopener">DOI</a>
+</p>
+</div>
+</div>
+
+<div class="col-md-6">
 <div class="project-card no-media" id="tesis-reloj">
 <h3>Tesis</h3>
 <p><strong>Reloj inteligente IoT basado en tecnologías abiertas para la recopilación de datos de confort térmico</strong></p>
@@ -18,22 +34,6 @@ page-layout: full
 </p>
 <p class="links">
   <a class="btn btn-sm btn-success" href="https://altamarmx.github.io/reloj_inteligente/" target="_blank" rel="noopener">Sitio</a>
-</p>
-</div>
-</div>
-
-<div class="col-md-6">
-<div class="project-card no-media" id="articulo-reloj">
-<h3>Artículo</h3>
-<p><strong>IoT smartwatch based on open technologies for the collection of thermal comfort data</strong></p>
-<p>Presenta el diseño abierto del smartwatch, metodología de adquisición de datos de confort y validaciones experimentales. <em>HardwareX</em>, 2025</p>
-<p class="badges">
-  <span class="badge">Artículo</span>
-  <span class="badge">HardwareX</span>
-  <span class="badge">2025</span>
-</p>
-<p class="links">
-  <a class="btn btn-sm btn-primary" href="https://doi.org/10.1016/j.ohx.2025.e00633" target="_blank" rel="noopener">DOI</a>
 </p>
 </div>
 </div>

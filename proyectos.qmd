@@ -5,6 +5,13 @@ page-layout: full
 
 <div class="row g-4">
 
+<div class="col-md-12">
+<div class="project-card no-media" id="heliostato">
+<h3>Control de heliostatos mediante visión por computadora</h3>
+<p>Investigación doctoral en el IER-UNAM (2026-actualidad) sobre control de heliostatos mediante visión por computadora y corrección en lazo cerrado. Incluye trabajo experimental con el heliostato, el horno solar y su sistema de control.</p>
+</div>
+</div>
+
 <div class="col-md-6">
 <div class="project-card">
 <h3>IoT_Reloj_Confort</h3>

@@ -1,6 +1,7 @@
 ---
 title: "Julio Landa"
-subtitle: "Energías Renovables · IoT · Datos"
+subtitle: "Estudiante de Doctorado en Energías Renovables · Mecatrónica · Control"
+description: "Julio Landa, estudiante de doctorado en el IER-UNAM e ingeniero en Mecatrónica. Investigación en control de heliostatos mediante visión por computadora."
 page-layout: full
 about:
   template: trestles
@@ -18,21 +19,30 @@ about:
     - icon: link-45deg
       text: ORCID
       href: "https://orcid.org/0009-0006-2067-6624"
+    - icon: mortarboard
+      text: Google Scholar
+      href: "https://scholar.google.com/citations?user=aoloTfAAAAAJ&hl=es"
 ---
 
-Ingeniero en Mecatrónica con maestría en Energías Renovables, especializado en diseño bioclimático, confort térmico y con interés en energía solar térmica y automatización. Trabajo con Python para adquisición, análisis y visualización de datos, desarrollando soluciones reproducibles y claras. Me motiva la investigación y la ciencia, buscando siempre unir la técnica con la creatividad para generar proyectos útiles y humanos.
+Soy estudiante de Doctorado en Energías Renovables en el IER-UNAM e ingeniero en Mecatrónica. Investigo el control de heliostatos mediante visión por computadora y corrección en lazo cerrado, con trabajo experimental en el heliostato y horno solar del IER. Mi experiencia incluye instrumentación, sistemas embebidos, IoT y análisis de datos con Python.
 
 ## Educación
-- Maestría en Energías Renovables — IER‑UNAM (2023–2025)
+- Doctorado en Energías Renovables — IER-UNAM (2026-actualidad)
+- Maestría en Ingeniería - Área en Energía — IER-UNAM (2022-2025)
   - Tesis: Reloj inteligente IoT basado en tecnologías abiertas para la recopilación de datos de confort térmico. [Ver](publicaciones.html#tesis-reloj)
 - Ingeniería Mecatrónica — Universidad Tecnológica de Emiliano Zapata (UTEZ) (2018–2020)
 
 ## Experiencia
+- Profesor adjunto — IER-UNAM (2023-actualidad). Apoyo actual en Energía Solar Térmica, particularmente geometría solar.
 - Docente de Física y Matemáticas — NC School (2024–2025)
-- Desarrollador HW/SW (IoT de confort térmico y automatización científica) — IER‑UNAM (2023–2025)
+- Desarrollador IoT — IER-UNAM (2020 / 2024-actualidad)
 - Co-coordinador General del CNEER — Congreso Nacional de Estudiantes de Energías Renovables (2026)
 
 ## Proyectos destacados
+### Control de heliostatos mediante visión por computadora
+Investigación doctoral sobre control y corrección en lazo cerrado, con trabajo experimental en el heliostato y horno solar del IER.
+[Ver investigación actual](proyectos.html#heliostato)
+
 ### Reloj inteligente IoT de confort térmico
 Dispositivo y plataforma abierta: XIAO ESP32C3, MAX30102, GY‑906; interfaz en LVGL y backend en ThingsBoard.  
 [Tesis](publicaciones.html#tesis-reloj) · [Artículo](publicaciones.html#articulo-reloj) · [Repositorio](https://github.com/JulioLanda4/IoT_Reloj_Confort)

@@ -10,6 +10,22 @@ format:
 
 
 <div class="col-md-6">
+<div class="project-card no-media" id="articulo-reloj">
+<h3>Article</h3>
+<p><strong>IoT smartwatch based on open technologies for the collection of thermal comfort data</strong></p>
+<p>Open design, data acquisition methodology and experimental validation. Landa, J., Barrios, G., &amp; Huelsz, G. (2025). <em>HardwareX, 22</em>, e00633.</p>
+<p class="badges">
+  <span class="badge">Article</span>
+  <span class="badge">HardwareX</span>
+  <span class="badge">2025</span>
+</p>
+<p class="links">
+  <a class="btn btn-sm btn-primary" href="https://doi.org/10.1016/j.ohx.2025.e00633" target="_blank" rel="noopener">DOI</a>
+</p>
+</div>
+</div>
+
+<div class="col-md-6">
 <div class="project-card no-media" id="tesis-reloj">
 <h3>Thesis</h3>
 <p><strong>Open‑technology IoT smartwatch for collecting thermal comfort data</strong></p>
@@ -26,22 +42,6 @@ format:
 </div>
 </div>
 
-
-<div class="col-md-6">
-<div class="project-card no-media" id="articulo-reloj">
-<h3>Article</h3>
-<p><strong>IoT smartwatch based on open technologies for the collection of thermal comfort data</strong></p>
-<p>Open design, data acquisition methodology and experimental validation. <em>HardwareX</em>, 2025</p>
-<p class="badges">
-  <span class="badge">Article</span>
-  <span class="badge">HardwareX</span>
-  <span class="badge">2025</span>
-</p>
-<p class="links">
-  <a class="btn btn-sm btn-primary" href="https://doi.org/10.1016/j.ohx.2025.e00633" target="_blank" rel="noopener">DOI</a>
-</p>
-</div>
-</div>
 
 </div>
 

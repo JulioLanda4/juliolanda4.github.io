@@ -28,50 +28,91 @@ format:
 ::: {.cv-sidebar}
 # Julio Landa {.cv-name}
 
-Ing. en Mecatrónica  
-M. en I. en Energías Renovables
+Estudiante de Doctorado en Energías Renovables  
+Ingeniero en Mecatrónica
 
 ## Contacto
 
-7771675118  
 [landajulioc@gmail.com](mailto:landajulioc@gmail.com)  
 [JulioLanda4](https://github.com/JulioLanda4)  
 [Sitio web](https://juliolanda4.github.io)  
-Priv. Cerezos No. 34, Col. Miguel Hidalgo, Jiutepec, Morelos. 62556
+[ORCID: 0009-0006-2067-6624](https://orcid.org/0009-0006-2067-6624)  
+[Google Scholar](https://scholar.google.com/citations?user=aoloTfAAAAAJ&hl=es)  
+Morelos, México
 
 ## Idiomas
 
-- Inglés: intermedio/avanzado
+- Inglés: B2-C1, competencia de trabajo (autoevaluación)
 - Español: nativo
+
+## Intereses de investigación
+
+Sistemas de control · Mecatrónica · Visión por computadora · Energía solar · Instrumentación · Sistemas embebidos
 
 ## Habilidades
 
 - **Instrumentación:** diseño y calibración de instrumentos.
-- **Mantenimiento:** preventivo y correctivo.
-- **Tableros eléctricos:** diseño y montaje de sistemas eléctricos.
 - **Programación:** Python, C/C++, Arduino y LabVIEW.
-- **Automatización:** diseño y desarrollo de sistemas de control industrial.
+- **Control:** automatización y control de heliostatos con visión por computadora y realimentación.
 - **Diseño mecánico:** modelado CAD con SolidWorks y FreeCAD.
 - **Análisis de datos:** Python, NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn y Plotly.
 - **Inteligencia artificial:** aprendizaje automático, redes neuronales y algoritmos genéticos.
-- **IoT:** desarrollo con ESP32/Arduino e integración a plataformas.
+- **Sistemas embebidos e IoT:** desarrollo con ESP32/Arduino e integración a plataformas.
 - **Electrónica:** diseño de circuitos y proyectos de automatización.
-- **PLC:** programación de sistemas de control.
 :::
 
 ::: {.cv-main}
+
+## Educación
+
+### Doctorado en Energías Renovables
+**Instituto de Energías Renovables, UNAM** · 2026-actualidad  
+Investigación: control de heliostatos mediante visión por computadora y corrección en lazo cerrado.
+
+### Maestría en Ingeniería - Área en Energía
+**Instituto de Energías Renovables de la UNAM** · 2022-2025  
+Morelos, México. Cédula profesional: 15145011.
+
+### Ingeniería Mecatrónica
+**Universidad Tecnológica de Emiliano Zapata** · 2018-2020  
+Emiliano Zapata, Morelos, México. Cédula profesional: 12273726.
+
+### Técnico Superior Universitario en Mecatrónica, Área Automatización
+**Universidad Tecnológica de Emiliano Zapata** · 2016-2018  
+Emiliano Zapata, Morelos, México. Cédula profesional: 11825167.
+
+## Investigación actual
+
+### Control de heliostatos mediante visión por computadora
+**IER-UNAM** · 2026-actualidad
+
+Investigo el control de heliostatos mediante visión por computadora y corrección en lazo cerrado. Realizo trabajo experimental con el heliostato y el horno solar del IER, y su sistema de control.
+
+## Publicaciones
+
+### IoT smartwatch based on open technologies for the collection of thermal comfort data
+Landa, J., Barrios, G., & Huelsz, G. (2025).  
+**HardwareX, 22**, e00633.  
+DOI: <https://doi.org/10.1016/j.ohx.2025.e00633>
+
+## Tesis
+
+### Reloj inteligente IoT basado en tecnologías abiertas para la recopilación de datos de confort térmico
+**Tesis de maestría** · 2025  
+Tesis disponible en: <https://altamarmx.github.io/reloj_inteligente/>  
+Proyecto bajo licencia GPL v3.0: <https://github.com/JulioLanda4/IoT_Reloj_Confort/tree/v1.0.0>
 
 ## Experiencia laboral
 
 ### NC School Cuernavaca
 **Profesor titular de física y matemáticas** · 2024-2025
 
-Me desempeño como profesor titular de las materias de física y matemáticas.
+Impartí las materias de física y matemáticas.
 
 ### IER, UNAM
-**Profesor adjunto** · 2023-2025
+**Profesor adjunto** · 2023-actualidad
 
-Me encargo de la revisión de tareas, exámenes y proyectos de la materia de Introducción al Diseño Bioclimático de sexto semestre de Ingeniería en Energías Renovables, y fui profesor adjunto de la materia de Álgebra Lineal de segundo semestre.
+Apoyo actualmente la asignatura de Energía Solar Térmica, particularmente en geometría solar. He colaborado en la revisión de tareas, exámenes y proyectos de Introducción al Diseño Bioclimático y como profesor adjunto de Álgebra Lineal.
 
 **Ingeniero desarrollador IoT** · 2020 / 2024-actualidad
 
@@ -102,32 +143,7 @@ Trabajé dando mantenimiento e instalando bombas de agua para pozos profundos, a
 
 Apliqué planes de mantenimiento a la maquinaria de la empresa y trabajé en la actualización y programación del sistema de control de una línea de producción utilizando PLC, así como en el armado del tablero eléctrico.
 
-## Educación
-
-### Maestría en Ingeniería - Área en Energía
-**Instituto de Energías Renovables de la UNAM** · 2022-2025  
-Morelos, México. Cédula profesional: 15145011.
-
-### Ingeniería Mecatrónica
-**Universidad Tecnológica de Emiliano Zapata** · 2018-2020  
-Emiliano Zapata, Morelos, México. Cédula profesional: 12273726.
-
-### Técnico Superior Universitario en Mecatrónica, Área Automatización
-**Universidad Tecnológica de Emiliano Zapata** · 2016-2018  
-Emiliano Zapata, Morelos, México. Cédula profesional: 11825167.
-
-## Publicaciones
-
-### IoT smartwatch based on open technologies for the collection of thermal comfort data
-**HardwareX** · 2025  
-DOI: <https://doi.org/10.1016/j.ohx.2025.e00633>
-
-### Reloj inteligente IoT basado en tecnologías abiertas para la recopilación de datos de confort térmico
-**Tesis de maestría** · 2025  
-Tesis disponible en: <https://altamarmx.github.io/reloj_inteligente/>  
-Proyecto bajo licencia GPL v3.0: <https://github.com/JulioLanda4/IoT_Reloj_Confort/tree/v1.0.0>
-
-## Reconocimientos, cursos y certificaciones
+## Certificaciones y formación complementaria
 
 ### Certificaciones
 
@@ -140,7 +156,7 @@ Proyecto bajo licencia GPL v3.0: <https://github.com/JulioLanda4/IoT_Reloj_Confo
 - **MeIA** · 2023. Macroentrenamiento en Inteligencia Artificial ofertado por la Red de Macrouniversidades Públicas de América Latina y el Caribe.
 - **Python para ingeniería** · 2023. Curso sobre análisis y procesamiento de datos con Python ofertado por la UNAM a través de Coursera.
 
-### Reconocimientos
+## Reconocimientos y participación académica
 
 - **Reconocimiento** · 2026. Taller Especializado “Ciencia de Datos y Metodología para el Análisis del Clima”, impartido el 19 de mayo de 2026 en el Congreso Internacional de Tecnología y Ciencia Aplicada, Cuernavaca, Morelos, México.
 - **Reconocimiento** · 2026. Participación como parte del comité organizador del Hackathon HackODS 2026, organizado por el Instituto de Energías Renovables de la UNAM y el Instituto de Ingeniería de la UNAM, del 12 de enero al 24 de abril de 2026.

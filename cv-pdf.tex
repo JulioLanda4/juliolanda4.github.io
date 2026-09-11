@@ -2,12 +2,14 @@
 \usepackage{xcolor}
 \usepackage{titlesec}
 \usepackage{enumitem}
+\usepackage{needspace}
 \usepackage{microtype}
 \usepackage{fontspec}
 \usepackage{tikz}
 \usepackage{fontawesome5}
 
 \pagestyle{empty}
+\AddToHook{cmd/subsubsection/before}{\Needspace{5\baselineskip}}
 \IfFontExistsTF{Liberation Sans}
   {\setmainfont{Liberation Sans}}
   {\setmainfont{TeX Gyre Heros}}
@@ -106,6 +108,7 @@
 
 \newenvironment{cvsidebar}{%
   \color{white}
+  \hypersetup{urlcolor=white,linkcolor=white}
   \vspace*{0.08cm}
   \fontsize{8.05}{9.55}\selectfont
   \leftskip=0.42cm

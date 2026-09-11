@@ -8,6 +8,13 @@ format:
 
 <div class="row g-4">
 
+<div class="col-md-12">
+<div class="project-card no-media" id="heliostato">
+<h3>Computer vision for heliostat control</h3>
+<p>Doctoral research at IER-UNAM (2026-present) on heliostat control using computer vision and closed-loop correction. Includes experimental work with the heliostat, solar furnace and control system.</p>
+</div>
+</div>
+
 <div class="col-md-6">
 <div class="project-card">
 <h3>IoT_Reloj_Confort</h3>

@@ -75,10 +75,11 @@ end
 
 local function contact_items_from_para(block)
   local icons = {
-    "\\faIcon{phone}",
     "\\faIcon{envelope}",
     "\\faIcon{github}",
     "\\faIcon{globe}",
+    "\\faIcon{orcid}",
+    "\\faIcon{graduation-cap}",
     "\\faIcon{map-marker-alt}",
   }
   local lines = plain_lines_from_para(block)
@@ -86,7 +87,18 @@ local function contact_items_from_para(block)
 
   for i, line in ipairs(lines) do
     local icon = icons[i] or "\\faIcon{circle}"
-    table.insert(tex, "\\cvcontactitem{" .. icon .. "}{" .. latex_escape(line) .. "}")
+    local label = latex_escape(line)
+    local targets = {
+      "mailto:landajulioc@gmail.com",
+      "https://github.com/JulioLanda4",
+      "https://juliolanda4.github.io",
+      "https://orcid.org/0009-0006-2067-6624",
+      "https://scholar.google.com/citations?user=aoloTfAAAAAJ&hl=es",
+    }
+    if targets[i] then
+      label = "\\href{" .. targets[i] .. "}{" .. label .. "}"
+    end
+    table.insert(tex, "\\cvcontactitem{" .. icon .. "}{" .. label .. "}")
   end
 
   return pandoc.RawBlock("latex", table.concat(tex, "\n"))
@@ -165,11 +177,4 @@ function Pandoc(doc)
 
   doc.blocks = blocks
   return doc
-end
-
-function Link(el)
-  if is_pdf_output() then
-    return el.content
-  end
-  return nil
 end

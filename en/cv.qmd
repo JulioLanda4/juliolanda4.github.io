@@ -28,38 +28,79 @@ format:
 ::: {.cv-sidebar}
 # Julio Landa {.cv-name}
 
-Mechatronics Engineer  
-Master's Degree in Renewable Energy
+PhD Student in Renewable Energy  
+Mechatronics Engineer
 
 ## Contact
 
-7771675118  
 [landajulioc@gmail.com](mailto:landajulioc@gmail.com)  
 [JulioLanda4](https://github.com/JulioLanda4)  
 [Website](https://juliolanda4.github.io)  
-Priv. Cerezos No. 34, Col. Miguel Hidalgo, Jiutepec, Morelos. 62556
+[ORCID: 0009-0006-2067-6624](https://orcid.org/0009-0006-2067-6624)  
+[Google Scholar](https://scholar.google.com/citations?user=aoloTfAAAAAJ&hl=es)  
+Morelos, Mexico
 
 ## Languages
 
 - Spanish: native
-- English: upper-intermediate/advanced
+- English: B2-C1, working proficiency (self-assessed)
+
+## Research Interests
+
+Control Systems · Mechatronics · Computer Vision · Solar Energy · Instrumentation · Embedded Systems
 
 ## Skills
 
 - **Instrumentation:** instrument design and calibration.
-- **Maintenance:** preventive and corrective maintenance.
-- **Electrical panels:** design and assembly of electrical systems.
 - **Programming:** Python, C/C++, Arduino and LabVIEW.
-- **Automation:** design and development of industrial control systems.
+- **Control:** automation and heliostat control using computer vision and feedback.
 - **Mechanical design:** CAD modeling with SolidWorks and FreeCAD.
 - **Data analysis:** Python, NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, Seaborn and Plotly.
 - **Artificial intelligence:** machine learning, neural networks and genetic algorithms.
-- **IoT:** development with ESP32/Arduino and platform integration.
+- **Embedded systems and IoT:** ESP32/Arduino development and platform integration.
 - **Electronics:** circuit design and automation projects.
-- **PLCs:** control system programming.
 :::
 
 ::: {.cv-main}
+
+## Education
+
+### PhD in Renewable Energy
+**Instituto de Energías Renovables, UNAM** · 2026-present  
+Research: heliostat control using computer vision and closed-loop correction.
+
+### Master's in Engineering - Energy Area
+**Instituto de Energias Renovables, UNAM** · 2022-2025  
+Morelos, Mexico.
+
+### Bachelor of Mechatronics Engineering
+**Universidad Tecnologica de Emiliano Zapata** · 2018-2020  
+Emiliano Zapata, Morelos, Mexico.
+
+### Higher University Technician in Mechatronics, Automation Area
+**Universidad Tecnologica de Emiliano Zapata** · 2016-2018  
+Emiliano Zapata, Morelos, Mexico.
+
+## Current Research
+
+### Computer vision for heliostat control
+**IER-UNAM** · 2026-present
+
+Research on heliostat control using computer vision and closed-loop correction. Experimental work with the heliostat, solar furnace and control system at IER.
+
+## Publications
+
+### IoT smartwatch based on open technologies for the collection of thermal comfort data
+Landa, J., Barrios, G., & Huelsz, G. (2025).  
+**HardwareX, 22**, e00633.  
+DOI: <https://doi.org/10.1016/j.ohx.2025.e00633>
+
+## Theses
+
+### IoT smartwatch based on open technologies for the collection of thermal comfort data
+**Master's thesis** · 2025  
+Available at: <https://altamarmx.github.io/reloj_inteligente/>  
+Project licensed under GPL v3.0: <https://github.com/JulioLanda4/IoT_Reloj_Confort/tree/v1.0.0>
 
 ## Professional Experience
 
@@ -69,9 +110,9 @@ Priv. Cerezos No. 34, Col. Miguel Hidalgo, Jiutepec, Morelos. 62556
 Lead teacher for physics and mathematics courses.
 
 ### IER, UNAM
-**Teaching Assistant** · 2023-2025
+**Teaching Assistant** · 2023-present
 
-Assisted with assignments, exams and project assessment for Introduction to Bioclimatic Design in the sixth semester of Renewable Energy Engineering, and served as teaching assistant for second-semester Linear Algebra.
+Currently support the Solar Thermal Energy course, particularly solar geometry. Previously assisted with assignments, exams and project assessment for Introduction to Bioclimatic Design, and served as teaching assistant for Linear Algebra.
 
 **IoT Developer Engineer** · 2020 / 2024-present
 
@@ -102,32 +143,7 @@ Maintained and installed deep-well water pumps, and designed and installed contr
 
 Applied maintenance plans to company machinery, updated and programmed production-line control systems using PLCs, and assembled electrical panels.
 
-## Education
-
-### Master's in Engineering - Energy Area
-**Instituto de Energias Renovables, UNAM** · 2022-2025  
-Morelos, Mexico.
-
-### Bachelor of Mechatronics Engineering
-**Universidad Tecnologica de Emiliano Zapata** · 2018-2020  
-Emiliano Zapata, Morelos, Mexico.
-
-### Higher University Technician in Mechatronics, Automation Area
-**Universidad Tecnologica de Emiliano Zapata** · 2016-2018  
-Emiliano Zapata, Morelos, Mexico.
-
-## Publications
-
-### IoT smartwatch based on open technologies for the collection of thermal comfort data
-**HardwareX** · 2025  
-DOI: <https://doi.org/10.1016/j.ohx.2025.e00633>
-
-### IoT smartwatch based on open technologies for the collection of thermal comfort data
-**Master's thesis** · 2025  
-Available at: <https://altamarmx.github.io/reloj_inteligente/>  
-Project licensed under GPL v3.0: <https://github.com/JulioLanda4/IoT_Reloj_Confort/tree/v1.0.0>
-
-## Certifications, Courses, Honors & Awards
+## Certifications and Additional Training
 
 ### Certifications
 
@@ -140,7 +156,7 @@ Project licensed under GPL v3.0: <https://github.com/JulioLanda4/IoT_Reloj_Confo
 - **Macrotraining in Artificial Intelligence (MeIA)** · 2023.
 - **Python for Engineering (UNAM, Coursera)** · 2023.
 
-### Honors & Awards
+## Honors and Academic Engagement
 
 - **Recognition** · 2026. Specialized Workshop “Data Science and Methodology for Climate Analysis”, delivered on May 19, 2026 at the International Congress of Technology and Applied Science, Cuernavaca, Morelos, Mexico.
 - **Recognition** · 2026. Participation as part of the organizing committee for HackODS Hackathon 2026, organized by the Institute of Renewable Energy and the Institute of Engineering at UNAM, from January 12 to April 24, 2026.
