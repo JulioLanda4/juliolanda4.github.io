@@ -36,7 +36,7 @@ Soy estudiante de Doctorado en Energías Renovables en el IER-UNAM e ingeniero e
 - Profesor adjunto — IER-UNAM (2023-actualidad). Apoyo actual en Energía Solar Térmica, particularmente geometría solar.
 - Docente de Física y Matemáticas — NC School (2024–2025)
 - Desarrollador IoT — IER-UNAM (2020 / 2024-actualidad)
-- Co-coordinador General del CNEER — Congreso Nacional de Estudiantes de Energías Renovables (2026)
+- Coordinador General del Congreso Nacional de Estudiantes de Energías Renovables (CNEER) 2026.
 
 ## Proyectos destacados
 ### Control de heliostatos mediante visión por computadora
