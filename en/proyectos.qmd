@@ -10,8 +10,13 @@ format:
 
 <div class="col-md-12">
 <div class="project-card no-media" id="heliostato">
-<h3>Computer vision for heliostat control</h3>
-<p>Doctoral research at IER-UNAM (2026-present) on heliostat control using computer vision and closed-loop correction. Includes experimental work with the heliostat, solar furnace and control system.</p>
+<h3>Solar Heliostat Control and Instrumentation</h3>
+<p>Doctoral research at IER-UNAM since 2026, focused on closed-loop heliostat control through sensor-based feedback. The work places primary emphasis on computer vision while considering complementary sensing methods for positioning. The experimental research encompasses the heliostat, solar furnace, instrumentation and control system.</p>
+<p class="badges">
+  <span class="badge">Doctoral Research</span>
+  <span class="badge">Control</span>
+  <span class="badge">Instrumentation</span>
+</p>
 </div>
 </div>
 
@@ -27,9 +32,42 @@ format:
 </p>
 <img class="project-media" src="../images/Reloj_inteligente.jpg" alt="IoT_Reloj_Confort">
 <p class="links">
-  <a class="btn btn-sm btn-outline-primary" href="../publicaciones.html#tesis-reloj" rel="noopener">Thesis</a>
-  <a class="btn btn-sm btn-outline-primary" href="../publicaciones.html#articulo-reloj" rel="noopener">Article</a>
+  <a class="btn btn-sm btn-outline-primary" href="publicaciones.html#tesis-reloj" rel="noopener">Thesis</a>
+  <a class="btn btn-sm btn-outline-primary" href="publicaciones.html#articulo-reloj" rel="noopener">Article</a>
   <a class="btn btn-sm btn-primary" href="https://github.com/JulioLanda4/IoT_Reloj_Confort" target="_blank" rel="noopener">Repository</a>
+</p>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="project-card no-media">
+<h3>Data Science and Methodology for Climate Analysis</h3>
+<p>A 2026 academic workshop with reproducible materials for climate data analysis using automatic weather stations (EMA), EPW files and Jupyter notebooks. It integrates pandas, Plotly, Weather Data, Climate Consultant and EnerHabitat.</p>
+<p class="badges">
+  <span class="badge">Jupyter</span>
+  <span class="badge">pandas</span>
+  <span class="badge">Plotly</span>
+  <span class="badge">Climate</span>
+</p>
+<p class="links">
+  <a class="btn btn-sm btn-success" href="https://juliolanda4.github.io/Taller_clima/" target="_blank" rel="noopener">Site</a>
+  <a class="btn btn-sm btn-primary" href="https://github.com/JulioLanda4/Taller_clima" target="_blank" rel="noopener">Repository</a>
+</p>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="project-card no-media">
+<h3>Agente_Martin</h3>
+<p>A local large language model (LLM) agent developed in Python to maintain and update this Quarto website. It integrates Git, persistent memory, a proposal system before editing and local execution on a Raspberry Pi.</p>
+<p class="badges">
+  <span class="badge">Python</span>
+  <span class="badge">LLM</span>
+  <span class="badge">Quarto</span>
+  <span class="badge">Raspberry Pi</span>
+</p>
+<p class="links">
+  <a class="btn btn-sm btn-primary" href="https://github.com/JulioLanda4/Agente_Martin" target="_blank" rel="noopener">Repository</a>
 </p>
 </div>
 </div>
