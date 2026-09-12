@@ -26,6 +26,7 @@ page-layout: full
   <span class="badge">Python</span>
   <span class="badge">Shinylive</span>
   <span class="badge">Pyodide</span>
+  <span class="badge">Codex</span>
   <span class="badge">Visualización 3D</span>
   <span class="badge">En desarrollo</span>
 </p>
