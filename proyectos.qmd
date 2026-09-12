@@ -19,6 +19,26 @@ page-layout: full
 
 <div class="col-md-6">
 <div class="project-card">
+<h3>Simulador interactivo de horno solar</h3>
+<p>Simulador educativo y experimental en desarrollo para explorar un horno solar con heliostato y concentrador de facetas. Integra seguimiento solar, geometría de reflexión, visualización 3D y experimentos reproducibles con errores de orientación y estrategias de corrección. Cuenta con una versión web que ejecuta Python directamente en el navegador y una versión de escritorio en Python.</p>
+<p class="badges">
+  <span class="badge">Python</span>
+  <span class="badge">Shinylive</span>
+  <span class="badge">Pyodide</span>
+  <span class="badge">Visualización 3D</span>
+  <span class="badge">En desarrollo</span>
+</p>
+<img class="project-media" src="images/Simulador_horno.png" alt="Interfaz del simulador interactivo de horno solar">
+<p class="links">
+  <a class="btn btn-sm btn-success" href="https://juliolanda.github.io/simulador-horno-solar-web/" target="_blank" rel="noopener">Abrir simulador</a>
+  <a class="btn btn-sm btn-primary" href="https://github.com/JulioLanda/simulador-horno-solar-web" target="_blank" rel="noopener">Repositorio web</a>
+  <a class="btn btn-sm btn-outline-primary" href="https://github.com/JulioLanda/simulador-horno-solar" target="_blank" rel="noopener">Repositorio base</a>
+</p>
+</div>
+</div>
+
+<div class="col-md-6">
+<div class="project-card">
 <h3>IoT_Reloj_Confort</h3>
 <p>Reloj inteligente e infraestructura IoT para encuestas de confort térmico y medición de variables fisiológicas (XIAO ESP32C3, MAX30102, GY-906, LVGL). Incluye firmware, interfaz y backend en ThingsBoard.</p>
 <p class="badges">
