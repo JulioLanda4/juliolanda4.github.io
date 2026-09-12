@@ -78,18 +78,33 @@ format:
 </div>
 </div>
 
-<div class="col-md-6">
-<div class="project-card no-media">
-<h3>Agente_Martin</h3>
-<p>A local large language model (LLM) agent developed in Python to maintain and update this Quarto website. It integrates Git, persistent memory, a proposal system before editing and local execution on a Raspberry Pi.</p>
+<div class="col-md-12">
+<div class="project-card">
+<h3>Hermes Multi-Agent AI Ecosystem</h3>
+<p>A multi-agent ecosystem with specialized roles for automating technical, academic, documentary and organizational workflows. Its agents run mainly on self-managed Raspberry Pi infrastructure and are accessed through Telegram chatbots, where users send instructions, ask questions and receive responses.</p>
 <p class="badges">
   <span class="badge">Python</span>
   <span class="badge">LLM</span>
+  <span class="badge">Multi-Agent Systems</span>
   <span class="badge">Quarto</span>
   <span class="badge">Raspberry Pi</span>
+  <span class="badge">Telegram Bots</span>
+  <span class="badge">Automation</span>
+  <span class="badge">Git</span>
 </p>
+<img class="project-media" src="../images/Agentes_IA-public.png" alt="Telegram chatbots in the Hermes agent ecosystem">
+<h4>Sauron</h4>
+<p>The technical authority that administers the Raspberry Pi and the Hermes ecosystem: services, processes, logs, profiles, permissions, backups, gateways, automations and agent isolation. It diagnoses failures, prepares safe changes and coordinates the infrastructure.</p>
+<h4>Roger</h4>
+<p>The professional profile agent. It maintains Julio's website, CV, portfolio, publications, Quarto, GitHub Pages and academic and professional narrative.</p>
+<h4>C-3PO</h4>
+<p>An organizational coordination agent, especially for CNEER. It turns conversations, pending tasks and agreements into minutes, follow-up, logistics, contacts, team coordination and operational documentation in Notion.</p>
+<h4>R2-D2</h4>
+<p>A documentary agent that transforms voice notes, spoken ideas, classes, meetings and logs into clear, structured Markdown for notes, minutes, working documents and reusable materials.</p>
+<h4>Tlamatini <span class="badge">In Development</span></h4>
+<p>A CNEER conversational assistant under development to centralize information and guide attendees and participants through Telegram. The repository documents a Python implementation built on a Hermes profile, with a Telegram gateway, systemd services, Linux isolation and a Markdown knowledge base. It is presented as an active project for future editions rather than an already deployed public service.</p>
 <p class="links">
-  <a class="btn btn-sm btn-primary" href="https://github.com/JulioLanda4/Agente_Martin" target="_blank" rel="noopener">Repository</a>
+  <a class="btn btn-sm btn-primary" href="https://github.com/CNEER-IER-UNAM/Tlamatini" target="_blank" rel="noopener">Tlamatini Repository</a>
 </p>
 </div>
 </div>
