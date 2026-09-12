@@ -14,7 +14,7 @@ page-layout: full
   <span class="badge">Control</span>
   <span class="badge">Instrumentación</span>
 </p>
-<img class="project-media" src="images/heliostato.jpg" alt="Heliostato e infraestructura experimental del horno solar en el IER-UNAM">
+<div class="project-media-cell"><img class="project-media" src="images/heliostato.jpg" alt="Heliostato e infraestructura experimental del horno solar en el IER-UNAM"></div>
 </div>
 </div>
 
