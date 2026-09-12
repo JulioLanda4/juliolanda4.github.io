@@ -9,4 +9,4 @@ format:
 - ORCID: [0009-0006-2067-6624](https://orcid.org/0009-0006-2067-6624)  
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/JulioLanda4)  
 - GitHub: [@JulioLanda4](https://github.com/JulioLanda4)
-- Google Scholar: [Academic profile](https://scholar.google.com/citations?user=aoloTfAAAAAJ&hl=es)
+- Google Scholar: [Academic profile](https://scholar.google.com/citations?user=aoloTfAAAAAJ&hl=en)

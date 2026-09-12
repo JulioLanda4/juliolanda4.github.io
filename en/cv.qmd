@@ -38,7 +38,7 @@ Mechatronics Engineer
 [JulioLanda4](https://github.com/JulioLanda4)  
 [Website](https://juliolanda4.github.io)  
 [ORCID: 0009-0006-2067-6624](https://orcid.org/0009-0006-2067-6624)  
-[Google Scholar](https://scholar.google.com/citations?user=aoloTfAAAAAJ&hl=es)  
+[Google Scholar](https://scholar.google.com/citations?user=aoloTfAAAAAJ&hl=en)\
 Morelos, Mexico
 
 ## Languages
@@ -72,15 +72,15 @@ PhD Supervisor: Dr. Camilo Arancibia
 Research: Closed-loop control of solar heliostats using computer vision and complementary sensing methods.
 
 ### Master's in Engineering - Energy Area
-**Instituto de Energias Renovables, UNAM** · 2022-2025  
+**Instituto de Energías Renovables, UNAM** · 2022-2025\
 Morelos, Mexico.
 
 ### Bachelor of Mechatronics Engineering
-**Universidad Tecnologica de Emiliano Zapata** · 2018-2020  
+**Universidad Tecnológica de Emiliano Zapata** · 2018-2020\
 Emiliano Zapata, Morelos, Mexico.
 
 ### Higher University Technician in Mechatronics, Automation Area
-**Universidad Tecnologica de Emiliano Zapata** · 2016-2018  
+**Universidad Tecnológica de Emiliano Zapata** · 2016-2018\
 Emiliano Zapata, Morelos, Mexico.
 
 ## Current Research

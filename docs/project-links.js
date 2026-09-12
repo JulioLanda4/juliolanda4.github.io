@@ -1,5 +1,9 @@
 ﻿(function(){
+  if (window.__siteEnhancerLoaded) return;
+  window.__siteEnhancerLoaded = true;
+
   const OWNER = (document.body && document.body.dataset && document.body.dataset.githubOwner) || 'JulioLanda4';
+  const PAGE_LANG = document.documentElement.lang.toLowerCase().startsWith('en') ? 'en' : 'es';
   function hasSiteButton(container, repoName){
     if (container.querySelector('.site-link')) return true;
     const anchors = container.querySelectorAll('a');
@@ -16,7 +20,7 @@
     const a = document.createElement('a');
     a.className = 'btn btn-sm btn-success site-link';
     a.href = url; a.target = '_blank'; a.rel = 'noopener';
-    a.textContent = 'Sitio';
+    a.textContent = PAGE_LANG === 'en' ? 'Site' : 'Sitio';
     container.prepend(a);
   }
   async function enhance(el){

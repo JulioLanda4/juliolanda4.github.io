@@ -24,7 +24,7 @@ about:
       href: "https://orcid.org/0009-0006-2067-6624"
     - icon: mortarboard
       text: Google Scholar
-      href: "https://scholar.google.com/citations?user=aoloTfAAAAAJ&hl=es"
+      href: "https://scholar.google.com/citations?user=aoloTfAAAAAJ&hl=en"
 ---
 
 I am a PhD student in Renewable Energy at IER-UNAM and a mechatronics engineer. My research focuses on closed-loop control of solar heliostats using computer vision and complementary sensing methods, under the supervision of Dr. Camilo Arancibia. My experience includes instrumentation, embedded systems, IoT and data analysis with Python.

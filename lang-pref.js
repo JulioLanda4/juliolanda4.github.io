@@ -1,5 +1,8 @@
 // Early language redirect to avoid flicker
 (function(){
+  if (window.__langPrefLoaded) return;
+  window.__langPrefLoaded = true;
+
   try {
     var pref = null;
     try { pref = localStorage.getItem('siteLang'); } catch(_) {}
@@ -18,4 +21,3 @@
     }
   } catch (_) {}
 })();
-
