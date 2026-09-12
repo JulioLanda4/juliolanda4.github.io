@@ -65,6 +65,10 @@ h3 { margin-top: .25rem; margin-bottom: .5rem; }
   box-shadow:0 3px 16px rgba(0,0,0,.06);
   grid-column:1; grid-row:2 / span 4;
 }
+.project-card .project-media.contain{
+  object-fit:contain;
+  background:#f8fafc;
+}
 .project-card h3{ grid-column:1 / -1; }
 .project-card p, .project-card .badges, .project-card .links{ grid-column:2; }
 

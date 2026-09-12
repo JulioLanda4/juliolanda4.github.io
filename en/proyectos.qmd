@@ -32,7 +32,7 @@ format:
   <span class="badge">3D Visualization</span>
   <span class="badge">In Development</span>
 </p>
-<img class="project-media" src="../images/Simulador_horno.png" alt="Interface of the interactive solar furnace simulator">
+<img class="project-media contain" src="../images/Simulador_horno.png" alt="Interface of the interactive solar furnace simulator">
 <p class="links">
   <a class="btn btn-sm btn-success" href="https://juliolanda.github.io/simulador-horno-solar-web/" target="_blank" rel="noopener">Open Simulator</a>
   <a class="btn btn-sm btn-primary" href="https://github.com/JulioLanda/simulador-horno-solar-web" target="_blank" rel="noopener">Web Repository</a>

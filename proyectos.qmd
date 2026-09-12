@@ -29,7 +29,7 @@ page-layout: full
   <span class="badge">Visualización 3D</span>
   <span class="badge">En desarrollo</span>
 </p>
-<img class="project-media" src="images/Simulador_horno.png" alt="Interfaz del simulador interactivo de horno solar">
+<img class="project-media contain" src="images/Simulador_horno.png" alt="Interfaz del simulador interactivo de horno solar">
 <p class="links">
   <a class="btn btn-sm btn-success" href="https://juliolanda.github.io/simulador-horno-solar-web/" target="_blank" rel="noopener">Abrir simulador</a>
   <a class="btn btn-sm btn-primary" href="https://github.com/JulioLanda/simulador-horno-solar-web" target="_blank" rel="noopener">Repositorio web</a>
